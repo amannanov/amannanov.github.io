@@ -1,2 +1,0 @@
-amannanov.github.io
-===================
