@@ -1,0 +1,50 @@
+/* Add here all your CSS customizations */
+
+/* Menu Dash */
+.nav-hash__item {
+	text-decoration: none;
+	border-bottom: 1px dashed;
+}
+a.non__decor:hover{
+	text-decoration: none;
+	color: red;
+}
+
+/*Button Dash*/
+.btn-dash {
+	border: 1px dashed #d43f3a;
+	background-color: transparent;
+}
+.btn-dash-grn {
+	border: 1px dashed #4cae4c;
+	background-color: transparent;
+}
+.btn-dash > span {
+	color: #d43f3a;
+}
+.btn-dash-grn > span {
+	color: #4cae4c;
+}
+a.btn-dash:hover > span{
+	color: #fff;
+}
+a.btn-dash-grn:hover > span{
+	color: #fff;
+}
+
+/*Рамка вокруг текста*/
+.in-table{
+	border: 5px solid #d43f3a;
+}
+.in-table-grn{
+	border: 5px solid #4cae4c;
+}
+p.in-text {
+	margin-top: 12px;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+.in-up {
+	margin-top: 30px;
+}
